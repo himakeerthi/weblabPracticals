@@ -1,0 +1,26 @@
+.top{
+    width: 100vw;
+    height: auto;
+}
+a:link{
+    display: block;
+    text-decoration: none;
+    padding: 25px;
+    font-size: large;
+}
+marquee{
+    width: 50vw;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
